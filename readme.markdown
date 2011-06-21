@@ -12,9 +12,9 @@ The latest release is available on the [app store](http://itunes.apple.com/us/ap
 
 ## Known Issues
 
-* The Portland, Oregon sign in the original app code is used with permission of the City of Portland, and I can't release it with the source. The app should build and without one, though you might need to change the icon settings in the project's main plist file. Or you could add an app icon file with the name Icon.png, and any other sizes you want to include.
+* The Portland, Oregon sign in the released app is used with permission of the City of Portland, and I can't release it with the source. The app should build and run fine without one, though you might need to change the icon settings in the project's main plist file. Or you could add an app icon file with the name Icon.png, and any other sizes you want to include.
 * Delegate code for alert views and action sheets is very spaghetti-esque. There was a lot of last minute fiddling befor the initial release. I'll address this when features are finalized for v1.1.
-* Project specific database names, URLs and passwords are defined in a file called databaseConstants.m. You'll need to create this file to buld. There's a template of what it should look like in databaseConstants.h. In this release, the only feature that uses authentication is location adjustment. Contact me for details or an API account if needed.
+* Project specific database names, URLs and passwords are defined in a file called databaseConstants.m. You'll need to create this file to build. There's a template of what it should look like in databaseConstants.h. In this release, the only feature that uses authentication is location adjustment. Contact me for details or an API account if needed.
 
 ## Dependencies
 
@@ -26,7 +26,6 @@ This project uses [json-framework](http://code.google.com/p/json-framework/) and
 http://opensource.org/licenses/bsd-license
 
 Copyright (c) 2011, Elsewise LLC
-All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
