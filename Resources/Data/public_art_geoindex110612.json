@@ -1,0 +1,4084 @@
+{ "docs": [{
+	"_id" : "4725e624273d609375926c2ff800372a",
+	"artists": "Esteban Camacho Steffensen",
+	"recordID": "3057", 
+	"title": "Community Energy Project", 
+	"discipline": "mural",
+	"location": "Community Energy Project",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/4725e624273d609375926c2ff800372a/racc3057t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.660835, 
+			45.5590527
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "4725e624273d609375926c2ff8003c0b",
+	"artists": "Hector Hernandez",
+	"recordID": "3060", 
+	"title": "Urban Wellness", 
+	"discipline": "mural",
+	"location": "Urban Wellness Group",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/4725e624273d609375926c2ff8003c0b/racc3060t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6119205, 
+			45.5052006
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4cdc34",
+	"artists": "Vern Luce",
+	"recordID": "317", 
+	"title": "Untitled", 
+	"discipline": "sculpture",
+	"location": "MacLeay Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4cdc34/racc317t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.712677, 
+			45.535178999999999
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4ce6a9",
+	"artists": "Bruce West",
+	"recordID": "359", 
+	"title": "BW1", 
+	"discipline": "sculpture",
+	"location": "Lair Hill Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4ce6a9/racc359t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6813065, 
+			45.5015701
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4ce86e",
+	"artists": "Jerry  Allen",
+	"recordID": "362", 
+	"title": "Disc #4", 
+	"discipline": "sculpture",
+	"location": "Peninsula Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4ce86e/racc362t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6748716, 
+			45.5682219
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa4f365d",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "18 Works of Art", 
+	"discipline": "multiple",
+	"location": "Keller Auditorium",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4ceaf8/racc470t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.679117, 
+			45.512731
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4cf1c4",
+	"artists": "John Rogers",
+	"recordID": "585", 
+	"title": "118 Modules", 
+	"discipline": "sculpture",
+	"location": "Smart Park (SW 10th)",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4cf1c4/racc585t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6823349, 
+			45.5195807
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4d00ff",
+	"artists": "Charles Kibby",
+	"recordID": "617", 
+	"title": "Uroboros", 
+	"discipline": "sculpture",
+	"location": "Westmoreland Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4d00ff/racc617t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6423886, 
+			45.4704529
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4d05e8",
+	"artists": "Connie Earnshaw",
+	"recordID": "622", 
+	"title": "St. John's Triptych", 
+	"discipline": "ceramics",
+	"location": "St. John's Library",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4d05e8/racc622t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.751052, 
+			45.589982
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa50ca52",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "39 Works of Art", 
+	"discipline": "multiple",
+	"location": "Multnomah County Justice Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4d7c24/racc778t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.677138, 
+			45.515249
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4db85c",
+	"artists": "Wayne M. Reynolds",
+	"recordID": "785", 
+	"title": "Martin Luther King", 
+	"discipline": "painting",
+	"location": "NE Neighborhoods",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4db85c/racc785t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6585655, 
+			45.557461
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4dc533",
+	"artists": "Lee Kelly, Bonnie  Bronson",
+	"recordID": "787", 
+	"title": "Leland #1", 
+	"discipline": "sculpture",
+	"location": "Portland Center Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4dc533/racc787t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.679874, 
+			45.506843000000003
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4dc86f",
+	"artists": "Steven Gillman",
+	"recordID": "789", 
+	"title": "Peace Chant", 
+	"discipline": "sculpture",
+	"location": "SW Park Ave. and SW Columbia St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4dc86f/racc789t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.683125, 
+			45.514946
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4dceb4",
+	"artists": "Paul Sutinen",
+	"recordID": "790", 
+	"title": "In the Shadow of the Elm", 
+	"discipline": "sculpture",
+	"location": "SW Park Ave. and SW Market St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4dceb4/racc790t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6839399337769, 
+			45.51391060028034
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4dd013",
+	"artists": "Oliver Barrett",
+	"recordID": "791", 
+	"title": "Rebecca at the Well (Shemanski Fountain)", 
+	"discipline": "sculpture",
+	"location": "SW Park Ave. and SW Main St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4dd013/racc791t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.682158946991, 
+			45.517286118078488
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4dd411",
+	"artists": "Donald Wilson",
+	"recordID": "793", 
+	"title": "Interlocking Forms", 
+	"discipline": "sculpture",
+	"location": "SW 5th Ave. and SW Washington St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4dd411/racc793t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6768527, 
+			45.5201601
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa4deb86",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Lownsdale Square",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4dde63/racc796t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6773819, 
+			45.5160628
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4dee28",
+	"artists": "Lee Kelly",
+	"recordID": "801", 
+	"title": "Untitled Fountain", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave. and SW Pine St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4dee28/racc801t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.67690204279189, 
+			45.52255096008372
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4dfb2e",
+	"artists": "Kathleen  McCullough",
+	"recordID": "804", 
+	"title": "Cat in Repose", 
+	"discipline": "sculpture",
+	"location": "SW 5th Ave. and SW Morrison St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4dfb2e/racc804t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.67734094611281, 
+			45.519156995247968
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa59559b",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "SW 6th Ave. and SW Stark St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4e06bc/racc805t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6775204, 
+			45.521099
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4e0f99",
+	"artists": "Melvin Schuler",
+	"recordID": "807", 
+	"title": "Thor", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave and SW Taylor St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4e0f99/racc807t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6793257, 
+			45.5177511
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4e1869",
+	"artists": "Cheif Lelooska (Don Smith)",
+	"recordID": "810", 
+	"title": "Totem Pole", 
+	"discipline": "sculpture",
+	"location": "5700 SW Terwilliger Blvd.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4e1869/racc810t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.682857, 
+			45.4833519
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4e2632",
+	"artists": "Frederick Littman",
+	"recordID": "812", 
+	"title": "Joy (Pioneer Woman)", 
+	"discipline": "sculpture",
+	"location": "Council Crest Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4e2632/racc812t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.708538, 
+			45.499509
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4e2657",
+	"artists": "Lee Kelly",
+	"recordID": "813", 
+	"title": "Frank Beach Memorial Fountain", 
+	"discipline": "sculpture",
+	"location": "Washington Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4e2657/racc813t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.70565499999999, 
+			45.518624000000003
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa53d16d",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "5 Works of Art", 
+	"discipline": "multiple",
+	"location": "Portland Center for the Performing Arts",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4e3545/racc966t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.681327, 
+			45.516623
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4e3d41",
+	"artists": "Keith Jellum",
+	"recordID": "969", 
+	"title": "Electronic Poet", 
+	"discipline": "sculpture",
+	"location": "Smart Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4e3d41/racc969t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.68163323402401, 
+			45.51983453745936
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa548aa7",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Fire Station 10",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4e3e99/racc970t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.682784, 
+			45.463439
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4e45bd",
+	"artists": "Manuel Izquierdo",
+	"recordID": "973", 
+	"title": "Silver Dawn", 
+	"discipline": "sculpture",
+	"location": "Wallace Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4e45bd/racc973t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7031606435776, 
+			45.533837507800627
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa50c435",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Smart Park (SW 4th)",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4f506f/racc1117t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.676555, 
+			45.51746
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4f5906",
+	"artists": "Gary Hirsch",
+	"recordID": "1118", 
+	"title": "Upstream Downtown", 
+	"discipline": "sculpture",
+	"location": "Smart Park (SW 3rd)",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4f5906/racc1118t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6754006, 
+			45.5185456
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4f7570",
+	"artists": "Geoffrey Pagen",
+	"recordID": "1120", 
+	"title": "Untitled", 
+	"discipline": "ceramics",
+	"location": "Eastmoreland Golf Course Clubhouse",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4f7570/racc1120t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.637613, 
+			45.478105
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4f8294",
+	"artists": "Isaka Shamsud-Din",
+	"recordID": "1122", 
+	"title": "Now is the Time, the Time is Now", 
+	"discipline": "mural",
+	"location": "Irvington Covenant Church",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4f8294/racc1122t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.661221, 
+			45.552354
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multbb37047612bb8d04a1423b3953012079",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Oregon Convention Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4f8cd3/racc1180t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.663138, 
+			45.528379
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4f97af",
+	"artists": "Gutzon Borglum",
+	"recordID": "1182", 
+	"title": "Harvey W. Scott", 
+	"discipline": "sculpture",
+	"location": "Mt. Tabor Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4f97af/racc1182t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.59237742791331, 
+			45.511558957267972
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4f9d7b",
+	"artists": "Pompeo Coppini",
+	"recordID": "1183", 
+	"title": "George Washington", 
+	"discipline": "sculpture",
+	"location": "5626 NE Alameda St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4f9d7b/racc1183t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.605476, 
+			45.542263
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4fa32d",
+	"artists": "Jere Grimm",
+	"recordID": "1184", 
+	"title": "Untitled", 
+	"discipline": "other",
+	"location": "Couch Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4fa32d/racc1184t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.69244790077209, 
+			45.526727471096727
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4fa7f6",
+	"artists": "Tom  Hardy",
+	"recordID": "1185", 
+	"title": "Running Horses", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave. and SW Madison St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4fa7f6/racc1185t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.680413, 
+			45.5157287
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4fafa2",
+	"artists": "Bruce West",
+	"recordID": "1187", 
+	"title": "Sculpture Stage", 
+	"discipline": "sculpture",
+	"location": "Waterfront Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4fafa2/racc1187t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.669573, 
+			45.522432999999999
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa591544",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "11 Works of Art", 
+	"discipline": "multiple",
+	"location": "Juvenile Justice Center",
+	"thumbnailURL": "http://data.racc.org/pa_inventory/1075/1075thumb.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.59439, 
+			45.5316951
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4fbf5c",
+	"artists": "Roberta Kaserman",
+	"recordID": "1191", 
+	"title": "Inner Game", 
+	"discipline": "ceramics",
+	"location": "Montavilla Community Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4fbf5c/racc1191t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.578031, 
+			45.52782
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4fc6de",
+	"artists": "Alexander Phimister Proctor",
+	"recordID": "1192", 
+	"title": "Theodore Roosevelt, Rough Rider", 
+	"discipline": "sculpture",
+	"location": "SW Park Ave. and SW Jefferson St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4fc6de/racc1192t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6828134059906, 
+			45.516015624006307
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4fd00b",
+	"artists": "Hermon Atkins MacNeil",
+	"recordID": "1193", 
+	"title": "Coming of the White Man", 
+	"discipline": "sculpture",
+	"location": "Washington Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4fd00b/racc1193t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.70317277671511, 
+			45.523195313583273
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa53705e",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Portland Building",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4fd7a3/racc1194t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.679128, 
+			45.515651
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4fd7b4",
+	"artists": "David Kerner",
+	"recordID": "1197", 
+	"title": "Untitled", 
+	"discipline": "sculpture",
+	"location": "Smart Park (NW Davis)",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4fd7b4/racc1197t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6708605, 
+			45.5246857
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4fe77f",
+	"artists": "Keith Jellum",
+	"recordID": "1209", 
+	"title": "Mimir", 
+	"discipline": "sculpture",
+	"location": "NW 27th Ave. (Between NW Upshur St.& NW Thurman St.)",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4fe77f/racc1209t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.706815, 
+			45.5357281
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa4ffac0",
+	"artists": "David  Cotter",
+	"recordID": "1215", 
+	"title": "Untitled", 
+	"discipline": "sculpture",
+	"location": "Couch Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa4ffac0/racc1215t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6903596, 
+			45.526368
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa500879",
+	"artists": "David  Manuel",
+	"recordID": "1216", 
+	"title": "Promised Land", 
+	"discipline": "sculpture",
+	"location": "Chapman Square",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa500879/racc1216t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6777634, 
+			45.5153651
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa501859",
+	"artists": "Charlotte Lewis",
+	"recordID": "1226", 
+	"title": "Children of Humanity", 
+	"discipline": "painting",
+	"location": "North Police Precinct",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa501859/racc1226t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6613603, 
+			45.561894
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5027bf",
+	"artists": "Robert Calvo",
+	"recordID": "1252", 
+	"title": "Ascension", 
+	"discipline": "sculpture",
+	"location": "Fire Station 01",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5027bf/racc1252t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.670802, 
+			45.522051
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa51319c",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Southeast Police Precinct",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5047cf/racc1271t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.613999, 
+			45.523393
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa505775",
+	"artists": "George Fite Waters",
+	"recordID": "1323", 
+	"title": "Abraham Lincoln", 
+	"discipline": "sculpture",
+	"location": "SW Park Ave. and SW Madison St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa505775/racc1323t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6824432611465, 
+			45.516714775181178
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa5147bf",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "3 Works of Art", 
+	"discipline": "multiple",
+	"location": "Midland Library",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa50660d/racc1324t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.5377536, 
+			45.5167027
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa507199",
+	"artists": "Michihiro Kosuge",
+	"recordID": "1332", 
+	"title": "Water Sculpture", 
+	"discipline": "sculpture",
+	"location": "911 Communication Services Building",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa507199/racc1332t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.561402, 
+			45.494469
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa59b2ed",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Ed Benedict Skate Plaza",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa507b76/racc1333t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.5559816, 
+			45.4954728
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa508962",
+	"artists": "Manuel Izquierdo",
+	"recordID": "1334", 
+	"title": "The Dreamer", 
+	"discipline": "sculpture",
+	"location": "Pettygrove Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa508962/racc1334t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.678628, 
+			45.510758000000003
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa508b5f",
+	"artists": "Roland Hinton Perry",
+	"recordID": "1335", 
+	"title": "Elk", 
+	"discipline": "sculpture",
+	"location": "352 SW Main St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa508b5f/racc1335t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6775002, 
+			45.5157125
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa50968b",
+	"artists": "Olin Levi Warner",
+	"recordID": "1336", 
+	"title": "Skidmore Fountain", 
+	"discipline": "fountain",
+	"location": "SW 1st Ave. and SW Ankeny St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa50968b/racc1336t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6713027, 
+			45.5225057
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa50a096",
+	"artists": "Norman Taylor",
+	"recordID": "1337", 
+	"title": "Kvinneakt", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave. and SW Morrison St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa50a096/racc1337t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.67842531204219, 
+			45.519263220437907
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa50aa61",
+	"artists": "Robert Maki",
+	"recordID": "1338", 
+	"title": "TRIMET", 
+	"discipline": "sculpture",
+	"location": "SW 5th Ave. and SW Madison St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa50aa61/racc1338t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6793699, 
+			45.5154635
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa50b4da",
+	"artists": "Lee Kelly, Michael  Stirling",
+	"recordID": "1339", 
+	"title": "Friendship Circle", 
+	"discipline": "sculpture",
+	"location": "Waterfront Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa50b4da/racc1339t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6703143119812, 
+			45.526539561530718
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa50c1d4",
+	"artists": "Alice Cooper",
+	"recordID": "1341", 
+	"title": "Sacajawea and Jean-Baptiste", 
+	"discipline": "sculpture",
+	"location": "Washington Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa50c1d4/racc1341t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7023083499822, 
+			45.521358549627209
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa50d9d3",
+	"artists": "J. Seward Johnson",
+	"recordID": "1347", 
+	"title": "Allow Me", 
+	"discipline": "sculpture",
+	"location": "Pioneer Courthouse Square",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa50d9d3/racc1347t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6795303821564, 
+			45.518879833394649
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa50e09f",
+	"artists": "Emmanuel Frémiet",
+	"recordID": "1348", 
+	"title": "Joan of Arc", 
+	"discipline": "sculpture",
+	"location": "Coe Circle",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa50e09f/racc1348t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6229104, 
+			45.5264439
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa50f041",
+	"artists": "Marcia Donahue",
+	"recordID": "1350", 
+	"title": "Tête à Tête à Tête", 
+	"discipline": "sculpture",
+	"location": "Brooklyn Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa50f041/racc1350t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6558, 
+			45.4981486
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa510055",
+	"artists": "Jon  Gierlich",
+	"recordID": "1368", 
+	"title": "ANGLE of REPOSE: a pavilion", 
+	"discipline": "sculpture",
+	"location": "Matt Dishman Community Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa510055/racc1368t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.665149, 
+			45.542171
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5101ca",
+	"artists": "Laura Bender",
+	"recordID": "1378", 
+	"title": "A Moment of the River", 
+	"discipline": "painting",
+	"location": "Brentwood Darlington Community Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5101ca/racc1378t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.600899, 
+			45.471323
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa510a23",
+	"artists": "Jerry Mayer",
+	"recordID": "1379", 
+	"title": "Measure, Mark, Inventory and Pattern", 
+	"discipline": "sculpture",
+	"location": "East Precinct",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa510a23/racc1379t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.5539344, 
+			45.5168898
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa510fc5",
+	"artists": "Peter  Helzer",
+	"recordID": "1383", 
+	"title": "Alligator and Otter", 
+	"discipline": "sculpture",
+	"location": "Arbor Lodge Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa510fc5/racc1383t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6924797, 
+			45.5735504
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5115f0",
+	"artists": "Lee Hunt",
+	"recordID": "1409", 
+	"title": "Beverly Cleary Sculpture Garden for Children", 
+	"discipline": "sculpture",
+	"location": "Grant Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5115f0/racc1409t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6301293924196, 
+			45.540149518240732
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5125d0",
+	"artists": "Mark Bulwinkle",
+	"recordID": "1416", 
+	"title": "Three Figures", 
+	"discipline": "sculpture",
+	"location": "NE 13th Ave. and NE Holladay St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5125d0/racc1416t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.652542, 
+			45.5300356
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa53a6ca",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Water Pollution Control Lab",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5140ed/racc1466t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.761075, 
+			45.585565
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa582ab5",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "4 Works of Art", 
+	"discipline": "multiple",
+	"location": "Central Library",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa514ebf/racc1504t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.682899, 
+			45.519098
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa516a20",
+	"artists": "Carolyn King",
+	"recordID": "1514", 
+	"title": "The Conduct of an Instant has the Power to Change Everything", 
+	"discipline": "architectural integration",
+	"location": "North Portland Community Policing Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa516a20/racc1514t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.756345, 
+			45.58874
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa518ee9",
+	"artists": "Lloyd  Hamrol",
+	"recordID": "1550", 
+	"title": "Park Place", 
+	"discipline": "sculpture",
+	"location": "Woodstock Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa518ee9/racc1550t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6144329, 
+			45.4847018
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa519626",
+	"artists": "Jim Gion, Robert  Murase, Associates, Lawson  Inada",
+	"recordID": "1552", 
+	"title": "Songs of Innocence, Songs of Experience: Japanese American Historical Plaza", 
+	"discipline": "sculpture",
+	"location": "Waterfront Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa519626/racc1552t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.669734954834, 
+			45.523983929113882
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa59cfc1",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "5 Works of Art", 
+	"discipline": "multiple",
+	"location": "East Portland Community Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa51abe2/racc1566t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.552968, 
+			45.516031
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa546c2b",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "8 Works of Art", 
+	"discipline": "multiple",
+	"location": "City Hall",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa51d11c/racc1570t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6786873, 
+			45.5149065
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa520154",
+	"artists": "Douglas Senft",
+	"recordID": "1578", 
+	"title": "Awning", 
+	"discipline": "sculpture",
+	"location": "SW 3rd Ave. and SW Market St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa520154/racc1578t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6788148, 
+			45.5122722
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa520fe7",
+	"artists": "Bill Will",
+	"recordID": "1583", 
+	"title": "Eleven Very Small Sculptures", 
+	"discipline": "sculpture",
+	"location": "Wallace Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa520fe7/racc1583t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.703802, 
+			45.5339622
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa52212b",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Northeast Health Clinic",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa521950/racc1585t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6615406, 
+			45.5616771
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa523432",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Peninsula Park Community Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa522d4d/racc1587t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6738174, 
+			45.5699125
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa57b771",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Pier Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa52385b/racc1658t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7601994, 
+			45.6023752
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5238d0",
+	"artists": "Carolyn King",
+	"recordID": "1669", 
+	"title": "Taking Measure", 
+	"discipline": "sculpture",
+	"location": "Yeon Building, 1620 SE 190th",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5238d0/racc1669t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.4679455, 
+			45.510278
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa523967",
+	"artists": "Mathieu Gregoire",
+	"recordID": "1670", 
+	"title": "River Shift", 
+	"discipline": "sculpture",
+	"location": "South Waterfront Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa523967/racc1670t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6733144, 
+			45.5090236
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa576885",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "14 Works of Art", 
+	"discipline": "multiple",
+	"location": "1900 Building",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa523bc6/racc1674t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6810495, 
+			45.5097481
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa52a6ec",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "3 Works of Art", 
+	"discipline": "multiple",
+	"location": "Southwest Community Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa529a8c/racc1691t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.66746, 
+			45.553998
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa52c7a2",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Inverness Jail",
+	"thumbnailURL": "http://data.racc.org/pa_inventory/1274/1274thumb.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.543227, 
+			45.563502
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa52d1de",
+	"artists": "Gail Simpson, Aristotle Georgiades",
+	"recordID": "1733", 
+	"title": "Uncommon Knowledge", 
+	"discipline": "sculpture",
+	"location": "Mt Scott Community Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa52d1de/racc1733t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.588067, 
+			45.4815169
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa5356f9",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "3 Works of Art", 
+	"discipline": "multiple",
+	"location": "Holladay Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa52d319/racc1735t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6545624, 
+			45.530005
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa5810ad",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "4 Works of Art", 
+	"discipline": "multiple",
+	"location": "University Park Community Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa52e3ee/racc1752t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.710773, 
+			45.587667
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa52e9ec",
+	"artists": "Anne Storrs",
+	"recordID": "1753", 
+	"title": "Buckeye Bench", 
+	"discipline": "sculpture",
+	"location": "Woodlawn Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa52e9ec/racc1753t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.651711, 
+			45.571853
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa52f57d",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Woodstock Library",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa52ed9e/racc1755t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.612093, 
+			45.478859
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa52f58f",
+	"artists": "Helen Lessick",
+	"recordID": "1783", 
+	"title": "House for Summer", 
+	"discipline": "sculpture",
+	"location": "Hoyt Arboretum",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa52f58f/racc1783t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7177981, 
+			45.5146037
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa52f592",
+	"artists": "Michael Stutz",
+	"recordID": "1787", 
+	"title": "Facing the Crowd", 
+	"discipline": "sculpture",
+	"location": "PGE Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa52f592/racc1787t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.69227600000001, 
+			45.522570999999999
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa530159",
+	"artists": "Michael Stutz",
+	"recordID": "1788", 
+	"title": "Facing the Crowd", 
+	"discipline": "sculpture",
+	"location": "PGE Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa530159/racc1788t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6905810832977, 
+			45.522052094622083
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa530899",
+	"artists": "RIGGA, James Harrison",
+	"recordID": "1839", 
+	"title": "Ghost Ship", 
+	"discipline": "sculpture",
+	"location": "Eastbank Esplanade",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa530899/racc1839t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.666736579521, 
+			45.519158874819382
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa530f1b",
+	"artists": "RIGGA, Ean Eldred",
+	"recordID": "1840", 
+	"title": "Stack Stalk", 
+	"discipline": "sculpture",
+	"location": "Eastbank Esplanade",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa530f1b/racc1840t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6664713468414, 
+			45.520225484946572
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa531957",
+	"artists": "RIGGA, Peter Nylen",
+	"recordID": "1841", 
+	"title": "Alluvial Wall", 
+	"discipline": "sculpture",
+	"location": "Eastbank Esplanade",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa531957/racc1841t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.66647436865919, 
+			45.520225047104439
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa531c89",
+	"artists": "RIGGA, Ean Eldred",
+	"recordID": "1842", 
+	"title": "Echo Gate", 
+	"discipline": "sculpture",
+	"location": "Eastbank Esplanade",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa531c89/racc1842t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.66740622286839, 
+			45.517244985854752
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa531cae",
+	"artists": "Keith  Jellum",
+	"recordID": "1843", 
+	"title": "Vincent, Waiting for Alice", 
+	"discipline": "sculpture",
+	"location": "Pendelton Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa531cae/racc1843t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7334708, 
+			45.4799299
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa531d3e",
+	"artists": "Judith Trager",
+	"recordID": "1879", 
+	"title": "First Light", 
+	"discipline": "fiber",
+	"location": "Multnomah County Courthouse",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa531d3e/racc1879t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.677879, 
+			45.516224999999999
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa532da0",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "North Portland Health Clinic",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa532538/racc1892t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7571818, 
+			45.592358
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa58c532",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "3 Works of Art", 
+	"discipline": "multiple",
+	"location": "Jamison Square",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa532dd9/racc1899t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.681635, 
+			45.528902
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa534233",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Multnomah East Building",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa533367/racc1900t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.425299, 
+			45.5026719
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53474a",
+	"artists": "Peter Mollica",
+	"recordID": "1954", 
+	"title": "Hooray for Hollywood", 
+	"discipline": "sculpture",
+	"location": "Hollywood Library",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53474a/racc1954t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.621584, 
+			45.536836
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multbc623d29a6a3694544afa0d84f2b427f",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "8 Works of Art", 
+	"discipline": "multiple",
+	"location": "Columbia Boulevard Wastewater Treatment Plant",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa535a3e/racc1979t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7209355, 
+			45.5941922
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa536541",
+	"artists": "Bill Will",
+	"recordID": "1996", 
+	"title": "Everyday Hero", 
+	"discipline": "sculpture",
+	"location": "Fire Station 12",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa536541/racc1996t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.5739257, 
+			45.5543797
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa537652",
+	"artists": "Pete Beeman",
+	"recordID": "2003", 
+	"title": "Pod", 
+	"discipline": "sculpture",
+	"location": "W Burnside St and SW 10th Ave",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa537652/racc2003t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.68131, 
+			45.522886
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa538859",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Springwater Corridor (Near OMSI)",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa537cc0/racc2009t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.665016, 
+			45.508056
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa539578",
+	"artists": "Shang Dynasty replica",
+	"recordID": "2019", 
+	"title": "Da Tung and Xi'an Bao Bao (Universal Peace and Baby Elephant)", 
+	"discipline": "sculpture",
+	"location": "NW Park Ave. and W Burnside St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa539578/racc2019t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.678747177124, 
+			45.523360036510873
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa539f38",
+	"artists": "Evelyn Franz",
+	"recordID": "2025", 
+	"title": "Triad", 
+	"discipline": "sculpture",
+	"location": "Laurelhurst Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa539f38/racc2025t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6230477, 
+			45.5192724
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53a59c",
+	"artists": "Ann Gardner",
+	"recordID": "2036", 
+	"title": "Wrap", 
+	"discipline": "sculpture",
+	"location": "Fire Station 16",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53a59c/racc2036t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.735728, 
+			45.510798
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53b4da",
+	"artists": "Dana Lynn Louis",
+	"recordID": "2060", 
+	"title": "Counter Act", 
+	"discipline": "sculpture",
+	"location": "Fire Station 09",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53b4da/racc2060t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6227698, 
+			45.510508
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53bbef",
+	"artists": "Roslyn Hill, Lillian Pitt",
+	"recordID": "2066", 
+	"title": "Cultural Totem", 
+	"discipline": "sculpture",
+	"location": "NE Alberta St. & NE 14th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53bbef/racc2066t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.651683, 
+			45.559099
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53c3cf",
+	"artists": "Jochem Poensgen",
+	"recordID": "2151", 
+	"title": "Constant Change", 
+	"discipline": "sculpture",
+	"location": "Hillsdale Library",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53c3cf/racc2151t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.694013, 
+			45.479852
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53d3e7",
+	"artists": "Donald Wilson",
+	"recordID": "2176", 
+	"title": "Hōlon", 
+	"discipline": "sculpture",
+	"location": "SW Park Ave. and SW Harrison St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53d3e7/racc2176t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6842165, 
+			45.5140431
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53e0cb",
+	"artists": "William Wegman",
+	"recordID": "2177", 
+	"title": "Dog Bowl", 
+	"discipline": "sculpture",
+	"location": "NW Park Ave. and NW Davis St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53e0cb/racc2177t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6791314, 
+			45.524466
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53ee9d",
+	"artists": "Harrell Fletcher",
+	"recordID": "2183", 
+	"title": "More Everyday Sunshine", 
+	"discipline": "sculpture",
+	"location": "Portland Streetcar",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53ee9d/racc2183t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.683151, 
+			45.517862999999998
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53f696",
+	"artists": "J. Craig Thorpe",
+	"recordID": "2185", 
+	"title": "Portland Union Station Centennial", 
+	"discipline": "painting",
+	"location": "Union Station",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53f696/racc2185t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.676923, 
+			45.528922
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa53feec",
+	"artists": "Malia Jensen",
+	"recordID": "2186", 
+	"title": "Waterfall", 
+	"discipline": "sculpture",
+	"location": "Fire Station 27",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa53feec/racc2186t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.760898, 
+			45.544801
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa540331",
+	"artists": "Herbert Dreiseitl",
+	"recordID": "2187", 
+	"title": "Artwall", 
+	"discipline": "sculpture",
+	"location": "Tanner Springs Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa540331/racc2187t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.68145325373069, 
+			45.531176636466803
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa540968",
+	"artists": "James Harrison",
+	"recordID": "2189", 
+	"title": "Araminta - Carrying People to Safety", 
+	"discipline": "sculpture",
+	"location": "Fire Station 28",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa540968/racc2189t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.605873, 
+			45.541474
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa5417cd",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "Wapato Facility",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa540a7a/racc2201t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.757439, 
+			45.626056
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54255f",
+	"artists": "Jean Whitesavage, Nick Lyle",
+	"recordID": "2209", 
+	"title": "Street Twig", 
+	"discipline": "sculpture",
+	"location": "NE 16th Ave. and NE Weidler St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54255f/racc2209t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6494674, 
+			45.5343118
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multbb37047612bb8d04a1423b3953016927",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "4 Works of Art", 
+	"discipline": "multiple",
+	"location": "McCoy Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa543f3d/racc2233t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7156186, 
+			45.5886575
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa545591",
+	"artists": "William Park",
+	"recordID": "2239", 
+	"title": "Liquid Flight", 
+	"discipline": "other",
+	"location": "Wilson Pool",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa545591/racc2239t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.693217, 
+			45.478636
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa545cf4",
+	"artists": "Wayne Chabre",
+	"recordID": "2245", 
+	"title": "Connections", 
+	"discipline": "sculpture",
+	"location": "Multnomah Building",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa545cf4/racc2245t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.660336, 
+			45.512366
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54799a",
+	"artists": "Cynthia Lahti",
+	"recordID": "2277", 
+	"title": "Station 3", 
+	"discipline": "ceramics",
+	"location": "Fire Station 03",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54799a/racc2277t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.688736, 
+			45.528803
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa547c88",
+	"artists": "Cynthia Lahti",
+	"recordID": "2278", 
+	"title": "Station 4", 
+	"discipline": "ceramics",
+	"location": "Fire Station 04",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa547c88/racc2278t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.682872, 
+			45.509734
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa549092",
+	"artists": "Henk Pander",
+	"recordID": "2283", 
+	"title": "CPR", 
+	"discipline": "painting",
+	"location": "Fire Station 23",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa549092/racc2283t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.652714, 
+			45.5016
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54a019",
+	"artists": "Henk Pander",
+	"recordID": "2285", 
+	"title": "On the Roof", 
+	"discipline": "painting",
+	"location": "Fire Station 20",
+	"thumbnailURL": "http://data.racc.org/pa_inventory/1557/1557thumb.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.642028, 
+			45.4743799
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54a893",
+	"artists": "Henk Pander",
+	"recordID": "2286", 
+	"title": "The Call", 
+	"discipline": "painting",
+	"location": "Fire Station 25",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54a893/racc2286t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.608595, 
+			45.491556
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa56d595",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "10 Works of Art", 
+	"discipline": "multiple",
+	"location": "Fire Station 26",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54af94/racc2289t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.722639, 
+			45.582208
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54b290",
+	"artists": "Mary Josephson",
+	"recordID": "2290", 
+	"title": "Fire Station 11", 
+	"discipline": "painting",
+	"location": "Fire Station 11",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54b290/racc2290t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.568691, 
+			45.481197
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54b51e",
+	"artists": "Mary Josephson",
+	"recordID": "2291", 
+	"title": "Fire Station 2", 
+	"discipline": "painting",
+	"location": "Fire Station 02",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54b51e/racc2291t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.5378972, 
+			45.5581902
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54b59f",
+	"artists": "Mary Josephson",
+	"recordID": "2292", 
+	"title": "Fire Station 19", 
+	"discipline": "painting",
+	"location": "Fire Station 19",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54b59f/racc2292t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.5879056, 
+			45.5230977
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54d270",
+	"artists": "Mary Josephson",
+	"recordID": "2294", 
+	"title": "Fire Station 42", 
+	"discipline": "painting",
+	"location": "Fire Station 29",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54d270/racc2294t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.526469, 
+			45.476504
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54de91",
+	"artists": "Mary Josephson",
+	"recordID": "2295", 
+	"title": "Fire Station 43", 
+	"discipline": "painting",
+	"location": "Fire Station 30",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54de91/racc2295t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.525925, 
+			45.537486
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54e6c7",
+	"artists": "Tad Savinar, Paul Sutinen, Marlene Salon, Marshall Lee, John Warner, Marianne Zarkin, John Laursen",
+	"recordID": "2298", 
+	"title": "Oregon Holocaust Memorial", 
+	"discipline": "sculpture",
+	"location": "Washington Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54e6c7/racc2298t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.703945, 
+			45.522246000000003
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa54f668",
+	"artists": "Cynthia Lahti",
+	"recordID": "2314", 
+	"title": "Station 6", 
+	"discipline": "ceramics",
+	"location": "Fire Station 06",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54f668/racc2314t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.705929, 
+			45.548974
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa573084",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "19 Works of Art", 
+	"discipline": "multiple",
+	"location": "Fire Station 22",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa54f8ba/racc2326t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.756641, 
+			45.589938
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa56fa3e",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "11 Works of Art", 
+	"discipline": "multiple",
+	"location": "Fire station 24",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa550547/racc2330t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.681456, 
+			45.555749
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa56eadf",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "13 Works of Art", 
+	"discipline": "multiple",
+	"location": "Fire Station 14",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5547d4/racc2352t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.644762, 
+			45.564478
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multbb37047612bb8d04a1423b39530174f3",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "13 Works of Art", 
+	"discipline": "multiple",
+	"location": "Fire Station 17",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5552c9/racc2355t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.675866, 
+			45.609783
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5730d6",
+	"artists": "Ping Khaw-Sutherland",
+	"recordID": "2490", 
+	"title": "Learning Beyond", 
+	"discipline": "mural",
+	"location": "2821 SE Stark St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5730d6/racc2490t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6367104, 
+			45.5193778
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5739f1",
+	"artists": "John Early, Laura Bender",
+	"recordID": "2492", 
+	"title": "Tapestry", 
+	"discipline": "mural",
+	"location": "9712 SW Barbur Blvd.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5739f1/racc2492t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.718279, 
+			45.454042
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa574995",
+	"artists": "Sherri Love Earnshaw",
+	"recordID": "2494", 
+	"title": "Life Cycle of a Sun Flower", 
+	"discipline": "mural",
+	"location": "4637 N Albina Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa574995/racc2494t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.675185, 
+			45.556762
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5755e5",
+	"artists": "Bruce Orr",
+	"recordID": "2495", 
+	"title": "The Scrap Mural", 
+	"discipline": "mural",
+	"location": "3901-A N Williams Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5755e5/racc2495t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6671482, 
+			45.5509654
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa576e98",
+	"artists": "Bill Bane",
+	"recordID": "2521", 
+	"title": "Vera Katz", 
+	"discipline": "sculpture",
+	"location": "Eastbank Esplanade",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa576e98/racc2521t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.66821347086101, 
+			45.513963829470882
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa592c1e",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "14 Works of Art", 
+	"discipline": "multiple",
+	"location": "Mead Building",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa577a02/racc2563t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6765918, 
+			45.5206909
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5818fe",
+	"artists": "Linda Wysong",
+	"recordID": "2688", 
+	"title": "Portals", 
+	"discipline": "architectural integration",
+	"location": "River East Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5818fe/racc2688t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.665893, 
+			45.5118667
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa581e32",
+	"artists": "Cynthia Lahti",
+	"recordID": "2752", 
+	"title": "Station 15", 
+	"discipline": "ceramics",
+	"location": "Fire Station 15",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa581e32/racc2752t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.698813, 
+			45.508992
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa582b29",
+	"artists": "Eric Nez",
+	"recordID": "2771", 
+	"title": "Temple of Cosmic Love", 
+	"discipline": "mural",
+	"location": "1000 SE 12th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa582b29/racc2771t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.653344, 
+			45.515631
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58325c",
+	"artists": "Mike Leonard-Maguire",
+	"recordID": "2773", 
+	"title": "Sullivan's Gulch 1806 and Confluences in Time", 
+	"discipline": "mural",
+	"location": "NE Weidler St. & NE 17th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58325c/racc2773t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6484549, 
+			45.5343191
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5839b7",
+	"artists": "Shane Bennett, Dan Cohen",
+	"recordID": "2774", 
+	"title": "Winter Wonderland", 
+	"discipline": "mural",
+	"location": "219 SW Broadway",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5839b7/racc2774t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6777493953705, 
+			45.522578281796363
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa583de0",
+	"artists": "Sara Stout",
+	"recordID": "2775", 
+	"title": "Share the Road", 
+	"discipline": "mural",
+	"location": "4307 SE Hawthorne Blvd.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa583de0/racc2775t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.618154, 
+			45.5121565
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5843e4",
+	"artists": "Angelina Marino",
+	"recordID": "2776", 
+	"title": "Life in the Inner City", 
+	"discipline": "mural",
+	"location": "1131 SE Oak St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5843e4/racc2776t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.654082, 
+			45.520137
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5851e7",
+	"artists": "Robin Corbo",
+	"recordID": "2777", 
+	"title": "The Community Cycling Center Mural", 
+	"discipline": "mural",
+	"location": "1700 NE Alberta St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5851e7/racc2777t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.647431, 
+			45.558788
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa585c00",
+	"artists": "Hampton Rodriguez",
+	"recordID": "2778", 
+	"title": "Fusion", 
+	"discipline": "mural",
+	"location": "6850 NE Killingsworth St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa585c00/racc2778t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.591927, 
+			45.562168
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5863df",
+	"artists": "Isaka Shamsud-Din, Joe Cotter, Hector Hernandez, Baba Wagué Diakité",
+	"recordID": "2779", 
+	"title": "The Musician's Union Building Mural", 
+	"discipline": "mural",
+	"location": "325 NE 20th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5863df/racc2779t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6456148, 
+			45.5254194
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5872e2",
+	"artists": "Dana Lynn Louis",
+	"recordID": "2780", 
+	"title": "Pranayama", 
+	"discipline": "mural",
+	"location": "2043 SE 50th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5872e2/racc2780t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6114098, 
+			45.5081017
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58780e",
+	"artists": "Heidi Schultz, Matt Bellingham",
+	"recordID": "2781", 
+	"title": "Hope is Vital", 
+	"discipline": "mural",
+	"location": "1621 NE Grand Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58780e/racc2781t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.661077, 
+			45.534515
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa588485",
+	"artists": "24 Artists",
+	"recordID": "2782", 
+	"title": "The Burnside Rocket", 
+	"discipline": "mural",
+	"location": "1111 E Burnside St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa588485/racc2782t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6546619, 
+			45.5229898
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa588d59",
+	"artists": "Larry Kangas",
+	"recordID": "2783", 
+	"title": "History of the Horse Through Time and Cultures", 
+	"discipline": "mural",
+	"location": "Parkrose High School",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa588d59/racc2783t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.539384, 
+			45.5549139
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5899ba",
+	"artists": "Michael T. Hensley",
+	"recordID": "2784", 
+	"title": "Outside In Dogs (2)", 
+	"discipline": "mural",
+	"location": "510 NE Martin Luther King Jr. Blvd.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5899ba/racc2784t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6616412, 
+			45.526653
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58a0d1",
+	"artists": "Robin Corbo",
+	"recordID": "2785", 
+	"title": "Women Making History in Portland", 
+	"discipline": "mural",
+	"location": "2335 N Clark Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58a0d1/racc2785t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.67714721111589, 
+			45.540224379226032
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58a5ec",
+	"artists": "William Park",
+	"recordID": "2786", 
+	"title": "Country United", 
+	"discipline": "mural",
+	"location": "728 SE 11th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58a5ec/racc2786t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6834441396317, 
+			45.520019777102739
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58b017",
+	"artists": "Patrick Greenfield, Jessie Smith, Kenji Lee, Justin White",
+	"recordID": "2787", 
+	"title": "The Cheerful Tortoise Mural", 
+	"discipline": "mural",
+	"location": "1935 SW 6th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58b017/racc2787t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.683854, 
+			45.509963
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58b9cd",
+	"artists": "Rodolfo Serna, Kate Zonis",
+	"recordID": "2788", 
+	"title": "The Girls, Inc. Mural", 
+	"discipline": "mural",
+	"location": "8801 N Lombard St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58b9cd/racc2788t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7558044, 
+			45.5911432
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58bfde",
+	"artists": "Lee Kelly",
+	"recordID": "2814", 
+	"title": "Howard's Way", 
+	"discipline": "sculpture",
+	"location": "The Civic Apartments",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58bfde/racc2814t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6901297, 
+			45.522429
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58d3dd",
+	"artists": "Donald Fels",
+	"recordID": "2821", 
+	"title": "Drawing on the River", 
+	"discipline": "sculpture",
+	"location": "Cathedral Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58d3dd/racc2821t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7573872, 
+			45.5876749
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58d580",
+	"artists": "Esteban Camacho Steffensen",
+	"recordID": "2823", 
+	"title": "Vigil of St. Mark", 
+	"discipline": "mural",
+	"location": "9750 SW Terwilliger Blvd.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58d580/racc2823t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.683119, 
+			45.454593
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58e557",
+	"artists": "Hector Hernandez",
+	"recordID": "2824", 
+	"title": "Flowering Legacy of the Civil Rights Leaders", 
+	"discipline": "mural",
+	"location": "3111 SE 13th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58e557/racc2824t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.652467, 
+			45.50043
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58ed51",
+	"artists": "Anna Garibay",
+	"recordID": "2825", 
+	"title": "Wilshire Park", 
+	"discipline": "mural",
+	"location": "Wilshire Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58ed51/racc2825t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6306793, 
+			45.5543005
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa58fa6f",
+	"artists": "Greg Lewis, Larry Gross",
+	"recordID": "2827", 
+	"title": "Transformation, Integrity, Community", 
+	"discipline": "mural",
+	"location": "5949 NE 30th St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa58fa6f/racc2827t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.635258, 
+			45.566069
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa590963",
+	"artists": "John Early, Laura Bender",
+	"recordID": "2828", 
+	"title": "Tabor Commons", 
+	"discipline": "mural",
+	"location": "3534 SE Main St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa590963/racc2828t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.627492, 
+			45.5133719
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59109b",
+	"artists": "Angelina Marino, Gary Herd, Marlys Mick, Joel Heidel",
+	"recordID": "2829", 
+	"title": "A Neighborhood in Motion", 
+	"discipline": "mural",
+	"location": "7215 NE Sandy Blvd.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59109b/racc2829t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.5885148, 
+			45.548508
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa591f7d",
+	"artists": "Rhiza A + D",
+	"recordID": "2851", 
+	"title": "BIG PIPE PORTAL: Making the Invisible Visible", 
+	"discipline": "sculpture",
+	"location": "4299 N Port Center Way",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa591f7d/racc2851t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.697458, 
+			45.553983
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5920c4",
+	"artists": "Brian Borrello, Vanessa Renwick",
+	"recordID": "2868", 
+	"title": "People's Bike Library of Portland", 
+	"discipline": "sculpture",
+	"location": "W Burnside St and SW 13th Ave",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5920c4/racc2868t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6840755, 
+			45.5229326
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa593bfc",
+	"artists": "Christine Bourdette",
+	"recordID": "2871", 
+	"title": "Cairns", 
+	"discipline": "sculpture",
+	"location": "NW 6th Ave. and NW Glisan St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa593bfc/racc2871t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6757227409943, 
+			45.527184009369428
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5949ae",
+	"artists": "Daniel Duford",
+	"recordID": "2872", 
+	"title": "The Legend of the Green Man of Portland", 
+	"discipline": "other",
+	"location": "NW 6th Ave. and NW Davis St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5949ae/racc2872t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6755039201076, 
+			45.52419745700724
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa594dbf",
+	"artists": "Bruce Conkle",
+	"recordID": "2873", 
+	"title": "Burls Will Be Burls", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave. and W Burnside St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa594dbf/racc2873t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6766935897563, 
+			45.52279050667331
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5960ea",
+	"artists": "John Buck",
+	"recordID": "2875", 
+	"title": "Lodge Grass", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave. and SW Oak St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5960ea/racc2875t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6771564, 
+			45.521772
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa597617",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "2 Works of Art", 
+	"discipline": "multiple",
+	"location": "SW 5th Ave. and SW Stark St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59681d/racc2876t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6764994, 
+			45.520826
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multb916e524b2e1f24e72ac7a81aa59a15a",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "4 Works of Art", 
+	"discipline": "multiple",
+	"location": "SW 6th Ave. and SW Washington St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5985fa/racc2878t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.676468, 
+			45.522016
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa599241",
+	"artists": "Patti Warashina",
+	"recordID": "2881", 
+	"title": "City Reflections", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave. and SW Main St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa599241/racc2881t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6797497631735, 
+			45.516691343771981
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59a2fa",
+	"artists": "Michihiro Kosuge",
+	"recordID": "2883", 
+	"title": "Continuation", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave. and SW Clay St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59a2fa/racc2883t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6812245318938, 
+			45.51403879196743
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59a405",
+	"artists": "Fernanda D'Agostino",
+	"recordID": "2884", 
+	"title": "Urban Hydrology", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave. and SW Harrison St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59a405/racc2884t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.68292553373119, 
+			45.511393397843968
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59a516",
+	"artists": "Hector Hernandez",
+	"recordID": "2892", 
+	"title": "Butterfly horizon", 
+	"discipline": "mural",
+	"location": "2424 SE 49th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59a516/racc2892t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.611714, 
+			45.504883
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59c0e8",
+	"artists": "Tiago DeJerk",
+	"recordID": "2907", 
+	"title": "Mt. Scott-Arleta Community Mural", 
+	"discipline": "mural",
+	"location": "5501 SE 72nd Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59c0e8/racc2907t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.589377, 
+			45.4830047
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59dba6",
+	"artists": "Jack Archibald",
+	"recordID": "2919", 
+	"title": "Engine", 
+	"discipline": "architectural integration",
+	"location": "Fire Station 01",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59dba6/racc2919t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6709258556366, 
+			45.521999475633983
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59df99",
+	"artists": "Teressa Hamje",
+	"recordID": "2921", 
+	"title": "Cars Into Plowshares", 
+	"discipline": "mural",
+	"location": "10 SE 7th Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59df99/racc2921t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.658369, 
+			45.522607
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59e08a",
+	"artists": "Hector Hernandez",
+	"recordID": "2922", 
+	"title": "Miraflores", 
+	"discipline": "mural",
+	"location": "8913 N. Newell Ave.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59e08a/racc2922t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7326854, 
+			45.5873604
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59efe6",
+	"artists": "Teri L. Payton",
+	"recordID": "2923", 
+	"title": "Portland Store Fixtures", 
+	"discipline": "mural",
+	"location": "110 SE Main Street",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59efe6/racc2923t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.66395928418611, 
+			45.51350197133462
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa59f68f",
+	"artists": "Dan Cohen, ArtFX Murals, Shane Bennett",
+	"recordID": "2924", 
+	"title": "Portland Memorial Mausoleum Mural", 
+	"discipline": "mural",
+	"location": "Portland Memorial Mausoleum Chapel",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa59f68f/racc2924t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.653221, 
+			45.475601
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5a057f",
+	"artists": "Robin Corbo",
+	"recordID": "2930", 
+	"title": "MIKE Mural", 
+	"discipline": "mural",
+	"location": "Diversified Specialty Institute",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5a057f/racc2930t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.658275, 
+			45.536786
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5a0790",
+	"artists": "Chris Johanson, Jo Jackson",
+	"recordID": "2931", 
+	"title": "Cherry Sprout Produce", 
+	"discipline": "mural",
+	"location": "722 N Sumner St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5a0790/racc2931t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.674744, 
+			45.560201
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5a14af",
+	"artists": "Rodolfo Serna",
+	"recordID": "2933", 
+	"title": "Impact Northwest", 
+	"discipline": "mural",
+	"location": "4635 SE Hawthorn Blvd.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5a14af/racc2933t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.614343, 
+			45.512268
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5a212c",
+	"artists": "Jack Archibald",
+	"recordID": "2937", 
+	"title": "Icarus Triumphant", 
+	"discipline": "architectural integration",
+	"location": "James Hawthorne Apartments",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5a212c/racc2937t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6881279, 
+			45.5152714
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5a39a9",
+	"artists": "Douglas Hollis",
+	"recordID": "3017", 
+	"title": "Song Cycles", 
+	"discipline": "sculpture",
+	"location": "Elizabeth Caruthers Park",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5a39a9/racc3017t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.671683, 
+			45.4978384
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5a41b4",
+	"artists": "Keiko Hara",
+	"recordID": "3018", 
+	"title": "Verses - Reflected and Reflecting", 
+	"discipline": "architectural integration",
+	"location": "Archives and Records Center",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5a41b4/racc3018t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.682559, 
+			45.5117327
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "b916e524b2e1f24e72ac7a81aa5a4925",
+	"artists": "Henk Pander",
+	"recordID": "3022", 
+	"title": "Hot Fire", 
+	"discipline": "painting",
+	"location": "Fire Station 05",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/b916e524b2e1f24e72ac7a81aa5a4925/racc3022t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.693663, 
+			45.480468
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bb37047612bb8d04a1423b3953013001",
+	"artists": "John  Killmaster",
+	"recordID": "792", 
+	"title": "Untitled", 
+	"discipline": "sculpture",
+	"location": "SW 5th Ave. and SW Pine St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bb37047612bb8d04a1423b3953013001/racc792t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6757926, 
+			45.522133
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bb37047612bb8d04a1423b3953013804",
+	"artists": "Bruce West",
+	"recordID": "803", 
+	"title": "Untitled", 
+	"discipline": "sculpture",
+	"location": "SW 6th Ave and SW Washington St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bb37047612bb8d04a1423b3953013804/racc803t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6778814, 
+			45.520432
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bb37047612bb8d04a1423b395301407b",
+	"artists": "Ivan Morrison",
+	"recordID": "806", 
+	"title": "Untitled", 
+	"discipline": "sculpture",
+	"location": "SW 5th Ave. and SW Oak St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bb37047612bb8d04a1423b395301407b/racc806t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6761354, 
+			45.5214979
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bb37047612bb8d04a1423b3953014af0",
+	"artists": "Don  Merkt",
+	"recordID": "1343", 
+	"title": "Driver's Seat", 
+	"discipline": "sculpture",
+	"location": "NW 5th Ave. and NW Irving St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bb37047612bb8d04a1423b3953014af0/racc1343t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6755542, 
+			45.5280844
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "multbc623d29a6a3694544afa0d84f2b8caa",
+	"artists": "Multiple Artists",
+	"recordID": "multiple", 
+	"title": "15 Works of Art", 
+	"discipline": "multiple",
+	"location": "Fire Station 08",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bb37047612bb8d04a1423b3953017611/racc3044t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.680821, 
+			45.574853
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bb37047612bb8d04a1423b3953019e11",
+	"artists": "Remedios Rapoport",
+	"recordID": "3054", 
+	"title": "Tango Berretín Mural", 
+	"discipline": "mural",
+	"location": "Tango Berretín",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bb37047612bb8d04a1423b3953019e11/racc3054t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.598327, 
+			45.490403
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bb37047612bb8d04a1423b395301a295",
+	"artists": "Bruce Orr",
+	"recordID": "3061", 
+	"title": "Peninsula Station", 
+	"discipline": "mural",
+	"location": "Peninsula Station",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bb37047612bb8d04a1423b395301a295/racc3061t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.7523841, 
+			45.5893146
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bc623d29a6a3694544afa0d84f2b93f3",
+	"artists": "Marlene Bauer",
+	"recordID": "3033", 
+	"title": "Echo", 
+	"discipline": "architectural integration",
+	"location": "Troutdale Library",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bc623d29a6a3694544afa0d84f2b93f3/racc3033t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.4126934, 
+			45.5277124
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bc623d29a6a3694544afa0d84f2ba21f",
+	"artists": "Harrell Fletcher",
+	"recordID": "3026", 
+	"title": "The Knowledge", 
+	"discipline": "mural",
+	"location": "5th Ave Cinema",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bc623d29a6a3694544afa0d84f2ba21f/racc3026t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.6825633, 
+			45.5102086
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bc623d29a6a3694544afa0d84f2ba3f3",
+	"artists": "Mauricio Saldaña",
+	"recordID": "2957", 
+	"title": "Art Benches", 
+	"discipline": "sculpture",
+	"location": "N. Denver Ave. between McClellan St. and Schofield St.",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bc623d29a6a3694544afa0d84f2ba3f3/racc2957t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.686888, 
+			45.583106
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bc623d29a6a3694544afa0d84f2baf3e",
+	"artists": "Marlene Bauer",
+	"recordID": "2940", 
+	"title": "March", 
+	"discipline": "architectural integration",
+	"location": "Kenton Library",
+	"thumbnailURL": "http://data.racc.org/pa_inventory/1845/1845thumb.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.686719, 
+			45.582813
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bc623d29a6a3694544afa0d84f2bbe85",
+	"artists": "Jonathan Bonner",
+	"recordID": "2920", 
+	"title": "After All", 
+	"discipline": "sculpture",
+	"location": "Oregon Health Clinic",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bc623d29a6a3694544afa0d84f2bbe85/racc2920t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.5625088, 
+			45.5312378
+		], 
+		"type": "Point"
+	}
+
+},
+
+{
+	"_id" : "bc623d29a6a3694544afa0d84f2bc9fb",
+	"artists": "Dan Corson",
+	"recordID": "2909", 
+	"title": "Mercurial Sky", 
+	"discipline": "other",
+	"location": "Director Park Canopy",
+	"thumbnailURL": "http://elsewise.couchone.com/public_art/bc623d29a6a3694544afa0d84f2bc9fb/racc2909t.jpg",	
+	"newWork" : "false",
+	"geometry": {
+		"coordinates": [
+			-122.681124, 
+			45.518759000000003
+		], 
+		"type": "Point"
+	}
+
+}]}
