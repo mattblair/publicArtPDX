@@ -46,8 +46,8 @@
 }
 
 @property (nonatomic, readonly) CLLocationCoordinate2D coordinate;
-@property (nonatomic, retain) NSString *title;
-@property (nonatomic, retain) NSString *subtitle;
+@property (nonatomic, copy) NSString *title;
+@property (nonatomic, copy) NSString *subtitle;
 @property (nonatomic, retain) NSString *discipline;
 @property (nonatomic, retain) NSString *artID;
 @property (nonatomic, retain) NSNumber *latitude;
