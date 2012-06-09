@@ -41,6 +41,8 @@
 #import "databaseConstants.h"
 #import "MBProgressHUD.h"
 
+#import <AVFoundation/AVFoundation.h>
+
 @implementation pdxPublicArtAppDelegate
 
 @synthesize window;
@@ -67,7 +69,15 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
-    // Override point for customization after application launch.
+    // Set up an audio session that plays nice with others
+    NSError *audioCategoryError = nil;
+    [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryAmbient
+                                           error:&audioCategoryError];
+    
+    if (audioCategoryError) {
+        
+        NSLog(@"Problem configuring the audio session category: %@ - %@", audioCategoryError, [audioCategoryError userInfo]);
+    }
 
     // Add the navigation controller's view to the window and display.
     [window addSubview:navigationController.view];
