@@ -12,6 +12,8 @@
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		28860BE50F44EE6400985440 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28860BE40F44EE6400985440 /* CoreData.framework */; };
 		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		9ED1948E158CEE7900992247 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 9ED1948D158CEE7900992247 /* libz.dylib */; };
+		9ED19490158CEF2600992247 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9ED1948F158CEF2600992247 /* AVFoundation.framework */; };
 		C907DA6612A2F33A000016FE /* LegendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C907DA6412A2F33A000016FE /* LegendViewController.m */; };
 		C907DA6912A2F397000016FE /* LegendViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C907DA6812A2F397000016FE /* LegendViewController.xib */; };
 		C907DAFA12A30892000016FE /* ArtDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C907DAF812A30892000016FE /* ArtDetailViewController.m */; };
@@ -41,7 +43,6 @@
 		C91C2C1C1298854100292C04 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C91C2C1B1298854100292C04 /* CFNetwork.framework */; };
 		C91C2C1E1298855100292C04 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C91C2C1D1298855100292C04 /* SystemConfiguration.framework */; };
 		C91C2C201298855A00292C04 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C91C2C1F1298855A00292C04 /* MobileCoreServices.framework */; };
-		C91C2C221298858000292C04 /* libz.1.2.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C91C2C211298858000292C04 /* libz.1.2.3.dylib */; };
 		C91C2C2F1299AC2F00292C04 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C91C2C2D1299AC2F00292C04 /* MapViewController.m */; };
 		C91C2C351299AC9200292C04 /* MapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C91C2C341299AC9200292C04 /* MapViewController.xib */; };
 		C91C2C471299B4CB00292C04 /* 74-location-invert.png in Resources */ = {isa = PBXBuildFile; fileRef = C91C2C451299B4CB00292C04 /* 74-location-invert.png */; };
@@ -124,6 +125,8 @@
 		28A0AAE50D9B0CCF005BE974 /* pdxPublicArt_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pdxPublicArt_Prefix.pch; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* pdxPublicArt-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "pdxPublicArt-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		9ED1948D158CEE7900992247 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		9ED1948F158CEF2600992247 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		C907DA6312A2F33A000016FE /* LegendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LegendViewController.h; sourceTree = "<group>"; };
 		C907DA6412A2F33A000016FE /* LegendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LegendViewController.m; sourceTree = "<group>"; };
 		C907DA6812A2F397000016FE /* LegendViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LegendViewController.xib; sourceTree = "<group>"; };
@@ -164,7 +167,6 @@
 		C91C2C1B1298854100292C04 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		C91C2C1D1298855100292C04 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		C91C2C1F1298855A00292C04 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
-		C91C2C211298858000292C04 /* libz.1.2.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.2.3.dylib; path = usr/lib/libz.1.2.3.dylib; sourceTree = SDKROOT; };
 		C91C2C2C1299AC2F00292C04 /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
 		C91C2C2D1299AC2F00292C04 /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
 		C91C2C341299AC9200292C04 /* MapViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MapViewController.xib; sourceTree = "<group>"; };
@@ -263,6 +265,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9ED19490158CEF2600992247 /* AVFoundation.framework in Frameworks */,
+				9ED1948E158CEE7900992247 /* libz.dylib in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
@@ -273,7 +277,6 @@
 				C91C2C1C1298854100292C04 /* CFNetwork.framework in Frameworks */,
 				C91C2C1E1298855100292C04 /* SystemConfiguration.framework in Frameworks */,
 				C91C2C201298855A00292C04 /* MobileCoreServices.framework in Frameworks */,
-				C91C2C221298858000292C04 /* libz.1.2.3.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,10 +316,11 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9ED1948F158CEF2600992247 /* AVFoundation.framework */,
+				9ED1948D158CEE7900992247 /* libz.dylib */,
 				C91C2C1B1298854100292C04 /* CFNetwork.framework */,
 				C91C2C1D1298855100292C04 /* SystemConfiguration.framework */,
 				C91C2C1F1298855A00292C04 /* MobileCoreServices.framework */,
-				C91C2C211298858000292C04 /* libz.1.2.3.dylib */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
