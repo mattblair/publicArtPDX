@@ -46,8 +46,8 @@
 	
 	UIImage *thePhoto; // set by ArtDetailVC, which has already downloaded it. Hopefully...
 	
-	NSNumber *newLatitude;
-	NSNumber *newLongitude;
+	NSNumber *suggestedLatitude;
+	NSNumber *suggestedLongitude;
 
 	
 	id <ArtLocationFixDelegate> delegate;
@@ -78,8 +78,8 @@
 
 @property(nonatomic,retain) Art *theArt;
 @property(nonatomic,retain) UIImage *thePhoto;
-@property(nonatomic,retain) NSNumber *newLatitude;
-@property(nonatomic,retain) NSNumber *newLongitude;
+@property(nonatomic,retain) NSNumber *suggestedLatitude;
+@property(nonatomic,retain) NSNumber *suggestedLongitude;
 
 @property(nonatomic, retain) id <ArtLocationFixDelegate> delegate;
 

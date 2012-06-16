@@ -39,7 +39,7 @@
 
 @implementation ArtLocationFixViewController
 
-@synthesize theArt, thePhoto, newLatitude, newLongitude, delegate, locationSubmitRequest;
+@synthesize theArt, thePhoto, suggestedLatitude, suggestedLongitude, delegate, locationSubmitRequest;
 
 // UI
 @synthesize  thumbnail, fixMapView, cancelButton, saveButton, uploadHUD;
@@ -145,11 +145,11 @@
 		
 		// Testing:
 		
-		//NSString *geometryJSON = [NSString stringWithFormat:@"{\"coordinates\": [%f, %f], \"type\": \"Point\"}", [self newLongitude], [self newLatitude]];
+		//NSString *geometryJSON = [NSString stringWithFormat:@"{\"coordinates\": [%f, %f], \"type\": \"Point\"}", [self suggestedLongitude], [self suggestedLatitude]];
 		
 		//NSString *jsonToSubmit = [NSString stringWithFormat:@"[\"geometry\": %@]", geometryJSON];
 		
-		NSArray *coordinateArray = [NSArray arrayWithObjects:self.newLongitude,self.newLatitude,nil];
+		NSArray *coordinateArray = [NSArray arrayWithObjects:self.suggestedLongitude,self.suggestedLatitude,nil];
 		
 		NSDictionary *geometryDict = [NSDictionary dictionaryWithObjectsAndKeys:
 											coordinateArray,@"coordinates",
@@ -275,8 +275,8 @@
 	
 		//NSLog(@"The drag ended.");
 
-		[self setNewLatitude:[NSNumber numberWithDouble:theAnnotation.coordinate.latitude]];
-		[self setNewLongitude:[NSNumber numberWithDouble:theAnnotation.coordinate.longitude]];
+		[self setSuggestedLatitude:[NSNumber numberWithDouble:theAnnotation.coordinate.latitude]];
+		[self setSuggestedLongitude:[NSNumber numberWithDouble:theAnnotation.coordinate.longitude]];
 	}
 	
 	/*
@@ -429,8 +429,8 @@
 	
 	[theArt release];
 	[thePhoto release];
-	[newLatitude release];
-	[newLongitude release];
+	[suggestedLatitude release];
+	[suggestedLongitude release];
 	
 	[locationSubmitRequest release];
 	
